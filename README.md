@@ -1,10 +1,10 @@
 # Steven Lloyd
 
-> *"Making the world a better place one line of code at a time."*
+> *"Making the world a better place through technology, vision, and training."*
 
 ## Technology Executive & Platform Architect
 
-Although I wasn't grass-fed, I was **open-range farm raised** – and that upbringing instilled in me an unshakeable work ethic and a deep appreciation for getting my hands dirty with technology. I believe in rolling up my sleeves, diving deep into complex problems, and crafting elegant solutions that drive measurable business impact.
+Growing up on a farm instilled in me an unshakeable work ethic and a deep appreciation for getting my hands dirty. I believe in rolling up my sleeves, diving deep into complex problems, and crafting elegant solutions that drive measurable business impact.
 
 ## Strategic Vision & Leadership
 
